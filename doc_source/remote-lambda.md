@@ -57,7 +57,7 @@ After the function is deleted, it's no longer listed in the **AWS Explorer**\.
 
 ## Import a Lambda Function<a name="import-lambda"></a>
 
-You can import code from a remote Lambda funcion into your VS Code workspace for editing and debugging\.
+You can import code from a remote Lambda function into your VS Code workspace for editing and debugging\.
 
 **Note**  
  The toolkit only supports importing Lambda functions using supported Node\.js and Python runtimes\. 
